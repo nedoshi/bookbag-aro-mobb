@@ -394,7 +394,7 @@ daemonset.apps/collector restarted
 
 == View the Metrics and Logs
 
-Now that the metrics and log forwarding are forwarding to Azure Files, let's view them in Granfa.
+Now that the metrics and log forwarding are forwarding to Azure Files, let's view them in Grafana.
 
 . First, we'll need to fetch the route for Grafana and visit it in our web browser. To get the route, run the following command
 +
